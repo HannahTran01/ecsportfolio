@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #DB512E;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #DB8D2F;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -39,7 +39,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #DBAE76;
 	margin: 0px;
 	float: left;
 	width: 100%;
